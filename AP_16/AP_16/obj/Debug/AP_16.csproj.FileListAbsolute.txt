@@ -1,0 +1,7 @@
+D:\C#\AP_16\AP_16\bin\Debug\AP_16.exe.config
+D:\C#\AP_16\AP_16\bin\Debug\AP_16.exe
+D:\C#\AP_16\AP_16\bin\Debug\AP_16.pdb
+D:\C#\AP_16\AP_16\obj\Debug\AP_16.csprojAssemblyReference.cache
+D:\C#\AP_16\AP_16\obj\Debug\AP_16.csproj.CoreCompileInputs.cache
+D:\C#\AP_16\AP_16\obj\Debug\AP_16.exe
+D:\C#\AP_16\AP_16\obj\Debug\AP_16.pdb

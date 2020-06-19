@@ -1,0 +1,7 @@
+D:\C#\Sessoin12\Sessoin12\bin\Debug\Sessoin12.exe.config
+D:\C#\Sessoin12\Sessoin12\bin\Debug\Sessoin12.exe
+D:\C#\Sessoin12\Sessoin12\bin\Debug\Sessoin12.pdb
+D:\C#\Sessoin12\Sessoin12\obj\Debug\Sessoin12.csprojAssemblyReference.cache
+D:\C#\Sessoin12\Sessoin12\obj\Debug\Sessoin12.csproj.CoreCompileInputs.cache
+D:\C#\Sessoin12\Sessoin12\obj\Debug\Sessoin12.exe
+D:\C#\Sessoin12\Sessoin12\obj\Debug\Sessoin12.pdb

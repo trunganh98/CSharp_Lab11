@@ -1,0 +1,7 @@
+D:\C#\Session13\Session13\bin\Debug\Session13.exe.config
+D:\C#\Session13\Session13\bin\Debug\Session13.exe
+D:\C#\Session13\Session13\bin\Debug\Session13.pdb
+D:\C#\Session13\Session13\obj\Debug\Session13.csproj.CoreCompileInputs.cache
+D:\C#\Session13\Session13\obj\Debug\Session13.exe
+D:\C#\Session13\Session13\obj\Debug\Session13.pdb
+D:\C#\Session13\Session13\obj\Debug\Session13.csprojAssemblyReference.cache
